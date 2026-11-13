@@ -91,7 +91,10 @@
         "sweetnessAcidity": "balanced",
         "texture": "rich",
         "smokePresentation": "none"
-      }
+      },
+      "baseSpirit": "Whiskey",
+      "images": [],
+      "image": null
     },
     {
       "id": "e-hoo-pau-mai-tai",
@@ -182,7 +185,10 @@
         "Identify bitters used in dropper bottle.",
         "Test whether aroma and sweetness match the original."
       ],
-      "notes": "Experimental recipe reconstructed from menu and firsthand service notes. Original was rum-forward and dry; keep smoke aromatic rather than overpowering."
+      "notes": "Experimental recipe reconstructed from menu and firsthand service notes. Original was rum-forward and dry; keep smoke aromatic rather than overpowering.",
+      "baseSpirit": "Rum",
+      "images": [],
+      "image": null
     },
     {
       "id": "shokudo-aged-old-fashion",
@@ -251,7 +257,10 @@
         "Confirm the original bitters blend and smoke wood.",
         "Test whether mezcal-to-whisky ratio matches the original."
       ],
-      "notes": "Reconstruction uses readily available ingredients and substitutes Angostura for unspecified Old Fashioned bitters. House-aged whisky is not replicated."
+      "notes": "Reconstruction uses readily available ingredients and substitutes Angostura for unspecified Old Fashioned bitters. House-aged whisky is not replicated.",
+      "baseSpirit": "Whiskey",
+      "images": [],
+      "image": null
     }
   ]
 }
