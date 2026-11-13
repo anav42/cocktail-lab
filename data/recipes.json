@@ -4,7 +4,7 @@
     {
       "id": "sagano-smoke",
       "name": "Sagano Smoke",
-      "status": "draft",
+      "status": "ready-to-test",
       "bar": "Bar Leather Apron",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -18,7 +18,11 @@
         "honey",
         "citrus",
         "whole egg",
-        "shaken"
+        "shaken",
+        "flip",
+        "peat-forward",
+        "rich",
+        "balanced sweet-sour"
       ],
       "observations": [
         "Menu lists Hibiki Harmony, Ardbeg Wee Beastie, matcha, honey, lemon, and whole egg.",
@@ -30,47 +34,64 @@
         "ingredients": [
           {
             "name": "Hibiki Harmony whisky",
-            "quantity": "TBD",
-            "certainty": "observed"
+            "quantity": "1¼ oz / 37.5 mL",
+            "certainty": "experimental"
           },
           {
             "name": "Ardbeg Wee Beastie whisky",
-            "quantity": "TBD",
-            "certainty": "observed"
+            "quantity": "¾ oz / 22.5 mL",
+            "certainty": "experimental"
           },
           {
-            "name": "matcha",
-            "quantity": "TBD",
-            "certainty": "observed"
+            "name": "Fresh lemon juice",
+            "quantity": "¾ oz / 22.5 mL",
+            "certainty": "experimental"
           },
           {
-            "name": "honey",
-            "quantity": "TBD",
-            "certainty": "observed"
+            "name": "Honey syrup (2 parts honey : 1 part water by weight)",
+            "quantity": "½ oz / 15 mL",
+            "certainty": "experimental"
           },
           {
-            "name": "lemon",
-            "quantity": "TBD",
-            "certainty": "observed"
+            "name": "Matcha powder",
+            "quantity": "½ tsp / approximately 1 g",
+            "certainty": "experimental"
           },
           {
-            "name": "whole egg",
-            "quantity": "TBD",
-            "certainty": "observed"
+            "name": "Whole pasteurized small egg",
+            "quantity": "1",
+            "certainty": "experimental"
           }
         ],
-        "steps": [],
-        "glassware": "Stemmed cocktail glass",
-        "garnish": "Green powder dusting, likely matcha (unconfirmed)"
+        "steps": [
+          "Make 2:1 honey syrup by mixing two parts honey with one part warm water by weight; chill.",
+          "Sift matcha into a shaker and whisk with fresh lemon juice until smooth.",
+          "Add both whiskies, honey syrup, and a small pasteurized whole egg.",
+          "Dry shake without ice vigorously for 15–20 seconds.",
+          "Add ice and shake hard for 12–15 seconds.",
+          "Double-strain into a chilled stemmed cocktail glass.",
+          "Let foam settle for 20–30 seconds and dust lightly with sifted matcha."
+        ],
+        "glassware": "Chilled stemmed cocktail glass",
+        "garnish": "Light matcha dusting (inferred from appearance)",
+        "alternatives": [
+          "If smoke is overpowering, use 1½ oz / 45 mL Hibiki and ½ oz / 15 mL Ardbeg."
+        ],
+        "foodSafety": "Use pasteurized egg; serve immediately; raw unpasteurized eggs carry Salmonella risk."
       },
       "unresolvedQuestions": [
-        "How smoky was the flavor relative to whisky and matcha?",
-        "How sweet, tart, and rich was the cocktail?",
-        "Was there any smoke presentation beyond the peated whisky?",
-        "What was the approximate serving size and foam texture?",
-        "Confirm ingredient proportions and mixing technique through testing."
+        "Test v1.0 at home and compare peat intensity, sweetness, acidity, and foam density to original.",
+        "Determine whether the bar uses a whole egg of a particular size and whether matcha is incorporated or only dusted.",
+        "Confirm original preparation technique and ingredient proportions if bartender details become available."
       ],
-      "notes": "Original observations captured; proportions and preparation not yet reconstructed. Source menu and drink photos supplied in ChatGPT conversation; images not stored in GitHub."
+      "notes": "Version 1.0 experimental reconstruction based on strong smoke, balanced sweet-acid, rich texture, and no additional smoke presentation. Menu identifies ingredients but not proportions; all measured amounts are experimental, not the bar's verified formula.",
+      "version": "1.0",
+      "tastingProfile": {
+        "smoke": "strong",
+        "sweetnessAcidity": "balanced",
+        "texture": "rich",
+        "smokePresentation": "none"
+      }
     }
   ]
 }
