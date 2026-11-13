@@ -92,6 +92,166 @@
         "texture": "rich",
         "smokePresentation": "none"
       }
+    },
+    {
+      "id": "e-hoo-pau-mai-tai",
+      "name": "E Hoo Pau Mai Tai",
+      "status": "ready-to-test",
+      "version": "1.0",
+      "bar": "Bar Leather Apron",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "tags": [
+        "rum",
+        "mai tai",
+        "dry",
+        "spirit-forward",
+        "smoke",
+        "absinthe",
+        "tiki"
+      ],
+      "observations": [
+        "Menu identifies El Dorado 8 and 12 Year rums, almond orgeat, honey, fig, coconut water, lime, absinthe and kiawe wood smoke.",
+        "Bartender sprayed absinthe onto the serving ice, then poured the cocktail from a smoke-filled container.",
+        "Bitters were applied to the top from a small dropper bottle after pouring; bitters are observed but not menu-listed.",
+        "Tasted dry and rum-forward; smoke was primarily an aroma on serving and near the top of the drink."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "El Dorado 8 Year rum",
+            "quantity": "1 oz / 30 mL",
+            "certainty": "experimental"
+          },
+          {
+            "name": "El Dorado 12 Year rum",
+            "quantity": "1 oz / 30 mL",
+            "certainty": "experimental"
+          },
+          {
+            "name": "Fresh lime juice",
+            "quantity": "¾ oz / 22.5 mL",
+            "certainty": "experimental"
+          },
+          {
+            "name": "Almond orgeat",
+            "quantity": "¼ oz / 7.5 mL",
+            "certainty": "experimental"
+          },
+          {
+            "name": "Honey syrup",
+            "quantity": "¼ oz / 7.5 mL (starting estimate)",
+            "certainty": "experimental"
+          },
+          {
+            "name": "Fig syrup",
+            "quantity": "¼ oz / 7.5 mL (starting estimate)",
+            "certainty": "experimental"
+          },
+          {
+            "name": "Coconut water",
+            "quantity": "½ oz / 15 mL (starting estimate)",
+            "certainty": "experimental"
+          },
+          {
+            "name": "Absinthe",
+            "quantity": "2 atomizer sprays onto serving ice",
+            "certainty": "experimental"
+          },
+          {
+            "name": "Aromatic bitters",
+            "quantity": "4–6 drops on top",
+            "certainty": "experimental"
+          }
+        ],
+        "steps": [
+          "Place serving ice in a rocks glass and mist with approximately two sprays of absinthe.",
+          "Shake rums, lime, orgeat, honey syrup, fig syrup and coconut water briefly with ice; strain into a separate pourable container.",
+          "Introduce a small amount of kiawe wood smoke into the container and cover for approximately 5–10 seconds, prioritizing aroma over heavy smoke infusion.",
+          "Pour over absinthe-sprayed ice and finish with 4–6 drops of aromatic bitters on the surface.",
+          "Optionally express orange peel over the glass; orange peel is an unconfirmed reconstruction detail."
+        ],
+        "glassware": "Rocks glass with serving ice",
+        "garnish": "Surface bitters; optional orange peel (unconfirmed)"
+      },
+      "unresolvedQuestions": [
+        "Confirm actual honey, fig, and coconut-water proportions.",
+        "Identify bitters used in dropper bottle.",
+        "Test whether aroma and sweetness match the original."
+      ],
+      "notes": "Experimental recipe reconstructed from menu and firsthand service notes. Original was rum-forward and dry; keep smoke aromatic rather than overpowering."
+    },
+    {
+      "id": "shokudo-aged-old-fashion",
+      "name": "Shokudo's Aged Old Fashion",
+      "status": "ready-to-test",
+      "version": "1.0",
+      "bar": "Kaimuki Shokudo",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "tags": [
+        "whisky",
+        "old fashioned",
+        "mezcal",
+        "smoky",
+        "smoked",
+        "spirit-forward"
+      ],
+      "observations": [
+        "Menu lists house-aged Toki whisky, Del Maguey Vida mezcal, orange bitters, Old Fashioned bitters and brown sugar.",
+        "Menu price at visit was $22.",
+        "Tasted smooth, whisky-forward and smoky; the drink was also smoked during presentation."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Suntory Toki whisky",
+            "quantity": "2 oz / 60 mL",
+            "certainty": "experimental"
+          },
+          {
+            "name": "Del Maguey Vida mezcal",
+            "quantity": "½ oz / 15 mL",
+            "certainty": "experimental"
+          },
+          {
+            "name": "Rich brown sugar syrup (2:1)",
+            "quantity": "¼ oz / 7.5 mL",
+            "certainty": "experimental"
+          },
+          {
+            "name": "Angostura aromatic bitters (substitute for unspecified Old Fashioned bitters)",
+            "quantity": "2 dashes",
+            "certainty": "experimental"
+          },
+          {
+            "name": "Orange bitters",
+            "quantity": "1 dash",
+            "certainty": "experimental"
+          }
+        ],
+        "steps": [
+          "Add whisky, mezcal, brown sugar syrup and both bitters to a mixing glass with ice.",
+          "Stir until chilled and suitably diluted.",
+          "Strain over a large ice cube in a rocks glass.",
+          "Express orange peel over the surface; use as garnish if desired.",
+          "Smoke the glass or finished cocktail with cherrywood or applewood for 15–30 seconds, then serve promptly."
+        ],
+        "glassware": "Rocks glass with large ice cube",
+        "garnish": "Orange peel (reconstruction)"
+      },
+      "unresolvedQuestions": [
+        "House-aging method and duration are unknown; this home version does not replicate aging.",
+        "Confirm the original bitters blend and smoke wood.",
+        "Test whether mezcal-to-whisky ratio matches the original."
+      ],
+      "notes": "Reconstruction uses readily available ingredients and substitutes Angostura for unspecified Old Fashioned bitters. House-aged whisky is not replicated."
     }
   ]
 }
