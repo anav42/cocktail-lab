@@ -1,4 +1,76 @@
 {
   "schemaVersion": 1,
-  "recipes": []
+  "recipes": [
+    {
+      "id": "sagano-smoke",
+      "name": "Sagano Smoke",
+      "status": "draft",
+      "bar": "Bar Leather Apron",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "tags": [
+        "whisky",
+        "matcha",
+        "smoky",
+        "honey",
+        "citrus",
+        "whole egg",
+        "shaken"
+      ],
+      "observations": [
+        "Menu lists Hibiki Harmony, Ardbeg Wee Beastie, matcha, honey, lemon, and whole egg.",
+        "Menu price: $24 at time of visit.",
+        "Photograph shows an opaque green cocktail served up in a stemmed glass with a thick pale-green foam cap and fine green powder dusting.",
+        "No ice visible in the serving glass."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Hibiki Harmony whisky",
+            "quantity": "TBD",
+            "certainty": "observed"
+          },
+          {
+            "name": "Ardbeg Wee Beastie whisky",
+            "quantity": "TBD",
+            "certainty": "observed"
+          },
+          {
+            "name": "matcha",
+            "quantity": "TBD",
+            "certainty": "observed"
+          },
+          {
+            "name": "honey",
+            "quantity": "TBD",
+            "certainty": "observed"
+          },
+          {
+            "name": "lemon",
+            "quantity": "TBD",
+            "certainty": "observed"
+          },
+          {
+            "name": "whole egg",
+            "quantity": "TBD",
+            "certainty": "observed"
+          }
+        ],
+        "steps": [],
+        "glassware": "Stemmed cocktail glass",
+        "garnish": "Green powder dusting, likely matcha (unconfirmed)"
+      },
+      "unresolvedQuestions": [
+        "How smoky was the flavor relative to whisky and matcha?",
+        "How sweet, tart, and rich was the cocktail?",
+        "Was there any smoke presentation beyond the peated whisky?",
+        "What was the approximate serving size and foam texture?",
+        "Confirm ingredient proportions and mixing technique through testing."
+      ],
+      "notes": "Original observations captured; proportions and preparation not yet reconstructed. Source menu and drink photos supplied in ChatGPT conversation; images not stored in GitHub."
+    }
+  ]
 }
