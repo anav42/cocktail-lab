@@ -1,0 +1,121 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Cocktail Lab Recipe",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "status",
+    "observations",
+    "recipe",
+    "contributors"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "status": {
+      "enum": [
+        "draft",
+        "ready-to-test",
+        "verified"
+      ]
+    },
+    "bar": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "city": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "dateExperienced": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "contributors": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "observations": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "recipe": {
+      "type": "object",
+      "properties": {
+        "ingredients": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "name",
+              "quantity"
+            ],
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "quantity": {
+                "type": "string"
+              },
+              "certainty": {
+                "enum": [
+                  "observed",
+                  "inferred",
+                  "experimental"
+                ]
+              }
+            }
+          }
+        },
+        "steps": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "glassware": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "garnish": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "unresolvedQuestions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "notes": {
+      "type": "string"
+    }
+  }
+}
