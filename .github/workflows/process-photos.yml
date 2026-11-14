@@ -11,7 +11,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   process:
-    if: contains(github.event.issue.labels.*.name, 'photo-submission')
+    if: startsWith(github.event.issue.title, 'Photo:')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
