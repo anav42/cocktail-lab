@@ -1,0 +1,32 @@
+name: Add cocktail photo
+description: Submit an original cocktail photo for an existing recipe
+title: "Photo: "
+labels: ["photo-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Upload your original cocktail photo below. The image will be optimized and linked to the matching recipe after submission. Only submit images you own or have permission to publish.
+  - type: input
+    id: cocktail-id
+    attributes:
+      label: Cocktail ID
+      description: Copy the recipe ID from the recipe's URL (for example, sagano-smoke).
+      placeholder: sagano-smoke
+    validations:
+      required: true
+  - type: textarea
+    id: photo
+    attributes:
+      label: Photo
+      description: Drag and drop or paste one photo into this field. Wait for GitHub to finish uploading before submitting.
+      placeholder: Drag or paste a JPEG, PNG, or WebP image here
+    validations:
+      required: true
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: Permission
+      options:
+        - label: I took this photograph or have permission to publish it in this public repository.
+          required: true
