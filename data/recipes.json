@@ -261,6 +261,85 @@
       "baseSpirit": "Whiskey",
       "images": [],
       "image": null
+    },
+    {
+      "id": "matcha-bar-leather-apron",
+      "name": "Matcha",
+      "status": "ready-to-test",
+      "version": "1.0",
+      "bar": "Bar Leather Apron",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Whiskey",
+      "image": null,
+      "images": [],
+      "tags": [
+        "bourbon",
+        "whiskey",
+        "matcha",
+        "old fashioned",
+        "orange bitters",
+        "wasanbon",
+        "spirit-forward"
+      ],
+      "observations": [
+        "Bar Leather Apron signature menu lists B.L.A. x Russell's Reserve Single Barrel Bourbon, wasanbon sugar, matcha, orange bitters; listed price $22.",
+        "User describes the drink as very whiskey-forward with orange bitters.",
+        "User photo shows an opaque deep green cocktail in a rocks glass with a large clear ice cube, orange peel and a small star-shaped garnish.",
+        "No visible foam; served over ice."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Russell's Reserve Single Barrel Bourbon",
+            "quantity": "2 oz / 60 mL",
+            "certainty": "experimental"
+          },
+          {
+            "name": "Wasanbon syrup (2:1 sugar to water)",
+            "quantity": "¼ oz / 7.5 mL",
+            "certainty": "experimental"
+          },
+          {
+            "name": "Matcha powder",
+            "quantity": "½ tsp / approximately 1 g",
+            "certainty": "experimental"
+          },
+          {
+            "name": "Orange bitters",
+            "quantity": "2 dashes",
+            "certainty": "experimental"
+          },
+          {
+            "name": "Cold water for matcha",
+            "quantity": "½ oz / 15 mL",
+            "certainty": "experimental"
+          },
+          {
+            "name": "Orange peel",
+            "quantity": "1 strip",
+            "certainty": "experimental"
+          }
+        ],
+        "steps": [
+          "Prepare a 2:1 wasanbon syrup with warm water; cool before using.",
+          "Sift matcha and whisk with ½ oz cold water until smooth.",
+          "Combine bourbon, syrup, prepared matcha and orange bitters in a mixing glass with ice.",
+          "Stir until chilled, then strain over one large clear ice cube in a rocks glass.",
+          "Express orange peel over the drink and place beside the cube. Optional small star-shaped garnish to match the photo; material unknown."
+        ],
+        "glassware": "Rocks glass with large clear ice cube",
+        "garnish": "Orange peel and small star-shaped garnish (material unknown)"
+      },
+      "unresolvedQuestions": [
+        "Confirm whether matcha was shaken or stirred and whether syrup was pre-infused.",
+        "Determine star garnish material.",
+        "Test matcha concentration and sweetness against the original."
+      ],
+      "notes": "User's actual photo was supplied in chat, but not yet uploaded into the repository. All measured quantities are reconstruction estimates; menu identifies ingredients but not amounts."
     }
   ]
 }
