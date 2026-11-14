@@ -93,8 +93,10 @@
         "smokePresentation": "none"
       },
       "baseSpirit": "Whiskey",
-      "images": [],
-      "image": null
+      "images": [
+        "./images/sagano-smoke/cocktail.jpg"
+      ],
+      "image": "./images/sagano-smoke/cocktail.jpg"
     },
     {
       "id": "e-hoo-pau-mai-tai",
