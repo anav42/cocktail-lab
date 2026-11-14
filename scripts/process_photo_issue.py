@@ -15,13 +15,14 @@ match = re.search(r"### Cocktail ID\s+([^\n]+)", body)
 if not match:
     raise SystemExit("Missing Cocktail ID field")
 cocktail_id = match.group(1).strip().strip("`").lower()
-if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", cocktail_id):
-    raise SystemExit("Invalid cocktail ID")
 catalog_path = ROOT / "data" / "recipes.json"
 catalog = json.loads(catalog_path.read_text())
-recipe = next((r for r in catalog["recipes"] if r["id"] == cocktail_id), None)
+def normalize(value):
+    return re.sub(r"[^a-z0-9]+", "-", value.lower()).strip("-")
+recipe = next((r for r in catalog["recipes"] if normalize(r["id"]) == normalize(cocktail_id) or normalize(r["name"]) == normalize(cocktail_id)), None)
 if recipe is None:
-    raise SystemExit("No recipe with that ID exists")
+    raise SystemExit("No recipe matching that name or ID exists")
+cocktail_id = recipe["id"]
 photo_section = body.split("### Photo", 1)[-1].split("### Permission", 1)[0]
 urls = re.findall(r"https://[^\s)<>]+", photo_section)
 allowed = ("github.com", "user-images.githubusercontent.com", "githubusercontent.com")
