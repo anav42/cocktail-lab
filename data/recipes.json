@@ -346,7 +346,7 @@
     {
       "id": "club-tropicana-podmore",
       "name": "Club Tropicana",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Podmore",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -412,7 +412,7 @@
     {
       "id": "the-autumn-chung-chow-podmore",
       "name": "The Autumn Chung Chow",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Podmore",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -508,7 +508,7 @@
     {
       "id": "the-dartmoor-podmore",
       "name": "The Dartmoor",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Podmore",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -554,7 +554,7 @@
         ],
         "steps": [
           "Use food-grade pine syrup and edible aloe juice, never ornamental pine or aloe latex.",
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -579,7 +579,7 @@
     {
       "id": "the-freddie-og-podmore",
       "name": "The Freddie OG",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Podmore",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -620,7 +620,7 @@
         ],
         "steps": [
           "Use vanilla syrup and chestnut honey syrup (2:1 honey to water).",
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -644,7 +644,7 @@
     {
       "id": "ship-based-podmore",
       "name": "Ship Based",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Podmore",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -714,7 +714,7 @@
     {
       "id": "apple-pie-tai-podmore",
       "name": "Apple Pie Tai",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Podmore",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -760,7 +760,7 @@
         ],
         "steps": [
           "Make spiced apple syrup by warming equal weights apple juice and sugar with cinnamon; cool and strain.",
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -785,7 +785,7 @@
     {
       "id": "apres-beach-podmore",
       "name": "Apres-Beach",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Podmore",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -825,7 +825,7 @@
           }
         ],
         "steps": [
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -849,7 +849,7 @@
     {
       "id": "sweety-pie-podmore",
       "name": "Sweety Pie",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Podmore",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -895,8 +895,8 @@
         ],
         "steps": [
           "Use pasteurized egg white (about 1 oz), shake without wine, then float wine on the finished drink. Sweet potato syrup: blend cooked sweet potato with simple syrup and strain.",
-          "Shake without ice for 15 seconds if using egg, then shake with ice and strain; keep any float separate.",
-          "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
+          "Taste and adjust sweetness or acidity in small increments; record changes for the next version.",
+          "Dry shake cognac, sweet potato syrup, bitters and pasteurized egg white; shake again with ice, strain over a cube and float wine. Add 0.5 oz lemon juice if needed to balance."
         ],
         "glassware": "Chilled coupe",
         "garnish": "Optional complementary garnish; original not confirmed.",
@@ -921,7 +921,7 @@
     {
       "id": "fully-loaded-podmore",
       "name": "Fully Loaded",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Podmore",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -992,7 +992,7 @@
     {
       "id": "fall-into-summer-podmore",
       "name": "Fall into Summer",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Podmore",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -1057,7 +1057,7 @@
     {
       "id": "pumpkin-to-sing-about-podmore",
       "name": "Pumpkin To Sing About",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Podmore",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -1102,7 +1102,7 @@
           }
         ],
         "steps": [
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -1127,7 +1127,7 @@
     {
       "id": "gettin-figgy-wit-it-podmore",
       "name": "Gettin’ Figgy Wit It",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Podmore",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -1203,7 +1203,7 @@
     {
       "id": "romantic-lead-podmore",
       "name": "Romantic Lead",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Podmore",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -1249,7 +1249,7 @@
         ],
         "steps": [
           "Wash 120 mL vodka with 10 g melted food-grade cocoa butter; cool, freeze until fat solidifies, then filter.",
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -1274,7 +1274,7 @@
     {
       "id": "so-fresa-so-clean-podmore",
       "name": "So Fresa, So Clean",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Podmore",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -1344,7 +1344,7 @@
     {
       "id": "notorious-p-i-g-podmore",
       "name": "Notorious P.I.G.",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Podmore",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -1390,7 +1390,7 @@
         ],
         "steps": [
           "Wash 120 mL tequila with 10 g rendered cooked bacon fat, chill, freeze and filter thoroughly; refrigerate and use promptly. Add 0.5 oz lime juice as an experimental balancing ingredient.",
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -1414,7 +1414,7 @@
     {
       "id": "fat-sassy-podmore",
       "name": "Fat & Sassy",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Podmore",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -1459,7 +1459,7 @@
           }
         ],
         "steps": [
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -1484,7 +1484,7 @@
     {
       "id": "ogres-have-layers-podmore",
       "name": "Ogres Have Layers",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Podmore",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -1525,8 +1525,8 @@
         ],
         "steps": [
           "Milk wash: stir 120 mL vodka with 30 mL pasteurized milk and 10 mL lemon juice, chill, then filter through curds. Shake vodka and liqueur with bitters and float lightly whipped matcha cream.",
-          "Shake without ice for 15 seconds if using egg, then shake with ice and strain; keep any float separate.",
-          "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
+          "Taste and adjust sweetness or acidity in small increments; record changes for the next version.",
+          "Serve in a chilled coupe with matcha cream floated on top."
         ],
         "glassware": "Chilled coupe",
         "garnish": "Optional complementary garnish; original not confirmed."
@@ -1549,7 +1549,7 @@
     {
       "id": "ever-green-podmore",
       "name": "Ever Green",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Podmore",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -1625,7 +1625,7 @@
     {
       "id": "southern-swell-podmore",
       "name": "Southern Swell",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Podmore",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -1690,7 +1690,7 @@
     {
       "id": "latchkey-lunch-podmore",
       "name": "Latchkey Lunch",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Podmore",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -1761,7 +1761,7 @@
     {
       "id": "golden-tonic-podmore",
       "name": "Golden Tonic",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Podmore",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -1838,7 +1838,7 @@
     {
       "id": "luz-azul-podmore",
       "name": "Luz Azul",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Podmore",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -1902,7 +1902,7 @@
     {
       "id": "green-screen-podmore",
       "name": "Green Screen",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Podmore",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -1967,7 +1967,7 @@
     {
       "id": "it-s-4-59-somewhere-podmore",
       "name": "It's 4:59 Somewhere",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Podmore",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -2007,7 +2007,7 @@
           }
         ],
         "steps": [
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -2031,7 +2031,7 @@
     {
       "id": "virgin-mary-podmore",
       "name": "Virgin Mary",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Podmore",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -2083,7 +2083,7 @@
     {
       "id": "b-l-a-bar-leather-apron",
       "name": "B.L.A.",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Bar Leather Apron",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -2147,7 +2147,7 @@
     {
       "id": "roku-cha-bar-leather-apron",
       "name": "Roku-Cha",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Bar Leather Apron",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -2198,7 +2198,7 @@
         ],
         "steps": [
           "Whisk sifted matcha with coconut water before shaking.",
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -2224,7 +2224,7 @@
     {
       "id": "japan-bar-leather-apron",
       "name": "Japan",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Bar Leather Apron",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -2283,7 +2283,7 @@
     {
       "id": "imperial-bar-leather-apron",
       "name": "Imperial",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Bar Leather Apron",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -2353,7 +2353,7 @@
     {
       "id": "in-the-soul-bar-leather-apron",
       "name": "In the Soul",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Bar Leather Apron",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -2409,7 +2409,7 @@
         ],
         "steps": [
           "Use ginger syrup and honey syrup; omit oak chip from liquid and optionally briefly smoke empty glass with food-grade oak using a cocktail smoker; ventilate.",
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -2436,7 +2436,7 @@
     {
       "id": "leather-soul-bar-leather-apron",
       "name": "Leather Soul",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Bar Leather Apron",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -2502,7 +2502,7 @@
     {
       "id": "royal-kunia-bar-leather-apron",
       "name": "Royal Kunia",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Bar Leather Apron",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -2573,7 +2573,7 @@
     {
       "id": "el-umami-bar-leather-apron",
       "name": "El Umami",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Bar Leather Apron",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -2619,7 +2619,7 @@
         ],
         "steps": [
           "Use bergamot syrup, strawberry puree and chilled filtered tomato water; add 0.5 oz lime if needed for acidity.",
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -2644,7 +2644,7 @@
     {
       "id": "rocking-chair-bar-leather-apron",
       "name": "Rocking Chair",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Bar Leather Apron",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -2728,7 +2728,7 @@
     {
       "id": "la-altena-bar-leather-apron",
       "name": "La Altena",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Bar Leather Apron",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -2774,7 +2774,7 @@
         ],
         "steps": [
           "Use ancho chile liqueur or syrup and briefly muddle a small piece of shishito pepper.",
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -2799,7 +2799,7 @@
     {
       "id": "yuzu-sour-bar-leather-apron",
       "name": "Yuzu Sour",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Bar Leather Apron",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -2882,7 +2882,7 @@
     {
       "id": "sansho-tonic-bar-leather-apron",
       "name": "Sansho Tonic",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Bar Leather Apron",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -2959,7 +2959,7 @@
     {
       "id": "l-m-c-bar-leather-apron",
       "name": "L.M.C.",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Bar Leather Apron",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -3036,7 +3036,7 @@
     {
       "id": "boomerang-bar-leather-apron",
       "name": "Boomerang",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Bar Leather Apron",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -3107,7 +3107,7 @@
     {
       "id": "li-hing-sour-bar-leather-apron",
       "name": "Li Hing Sour",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Bar Leather Apron",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -3153,7 +3153,7 @@
         ],
         "steps": [
           "Use stonefruit puree and a pinch of li hing powder.",
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -3178,7 +3178,7 @@
     {
       "id": "kope-ika-bar-leather-apron",
       "name": "Kope Ika",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Bar Leather Apron",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -3256,7 +3256,7 @@
     {
       "id": "choco-negroni-bar-leather-apron",
       "name": "Choco Negroni",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Bar Leather Apron",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -3321,7 +3321,7 @@
     {
       "id": "the-signature-gintonic-the-dotted-line",
       "name": "The Signature Gintonic",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "The Dotted Line",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -3373,7 +3373,7 @@
     {
       "id": "smoked-manhattan-the-dotted-line",
       "name": "Smoked Manhattan",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "The Dotted Line",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -3432,7 +3432,7 @@
     {
       "id": "vodka-verdant-martini-the-dotted-line",
       "name": "Vodka Verdant Martini",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "The Dotted Line",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -3503,7 +3503,7 @@
     {
       "id": "boulevardier-with-a-berry-the-dotted-line",
       "name": "Boulevardier with a Berry",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "The Dotted Line",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -3567,7 +3567,7 @@
     {
       "id": "charred-daiquiri-the-dotted-line",
       "name": "Charred Daiquiri",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "The Dotted Line",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -3637,7 +3637,7 @@
     {
       "id": "division-bell-basil-the-dotted-line",
       "name": "Division Bell & Basil",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "The Dotted Line",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -3682,7 +3682,7 @@
           }
         ],
         "steps": [
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -3707,7 +3707,7 @@
     {
       "id": "rosato-spritz-the-dotted-line",
       "name": "Rosato Spritz",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "The Dotted Line",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -3772,7 +3772,7 @@
     {
       "id": "penicillin-the-dotted-line",
       "name": "Penicillin",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "The Dotted Line",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -3818,7 +3818,7 @@
         ],
         "steps": [
           "Assume cropped Sombra ingredient is mezcal; float it on top. Use honey and ginger syrups.",
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -3843,7 +3843,7 @@
     {
       "id": "acgt-the-dotted-line",
       "name": "ACGT",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "The Dotted Line",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -3902,7 +3902,7 @@
     {
       "id": "yuzu-drop-kaimuki-shokudo",
       "name": "Yuzu Drop",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Kaimuki Shokudo",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -3942,7 +3942,7 @@
           }
         ],
         "steps": [
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -3966,7 +3966,7 @@
     {
       "id": "lychee-lemon-mojito-kaimuki-shokudo",
       "name": "Lychee Lemon Mojito",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Kaimuki Shokudo",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -4037,7 +4037,7 @@
     {
       "id": "yukari-lychee-tini-kaimuki-shokudo",
       "name": "Yukari Lychee-Tini",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Kaimuki Shokudo",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -4083,7 +4083,7 @@
         ],
         "steps": [
           "Use yukari on half the rim, not in shaker.",
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -4108,7 +4108,7 @@
     {
       "id": "lilikoi-cosmo-kaimuki-shokudo",
       "name": "Lilikoi Cosmo",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Kaimuki Shokudo",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -4153,7 +4153,7 @@
           }
         ],
         "steps": [
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -4178,7 +4178,7 @@
     {
       "id": "shiso-crazy-kaimuki-shokudo",
       "name": "Shiso-Crazy",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Kaimuki Shokudo",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -4254,7 +4254,7 @@
     {
       "id": "daily-whisk-matcha-sour-kaimuki-shokudo",
       "name": "Daily Whisk Matcha Sour",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Kaimuki Shokudo",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -4300,7 +4300,7 @@
         ],
         "steps": [
           "Whisk sifted matcha into lemon juice before shaking.",
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -4325,7 +4325,7 @@
     {
       "id": "lemongrass-shiso-gimlet-kaimuki-shokudo",
       "name": "Lemongrass Shiso Gimlet",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Kaimuki Shokudo",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -4366,7 +4366,7 @@
         ],
         "steps": [
           "Use yuzu peel-infused gin and lemongrass simple syrup; gently muddle shiso.",
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -4390,7 +4390,7 @@
     {
       "id": "namihana-mule-kaimuki-shokudo",
       "name": "Namihana Mule",
-      "status": "menu-only",
+      "status": "untried",
       "bar": "Kaimuki Shokudo",
       "city": "Honolulu, Hawaii",
       "dateExperienced": null,
@@ -4455,9 +4455,9 @@
     {
       "id": "p-sherman-venue-to-confirm-illustrated-tiki-menu",
       "name": "P. Sherman",
-      "status": "menu-only",
-      "bar": "Venue to confirm — illustrated tiki menu",
-      "city": "",
+      "status": "untried",
+      "bar": "Yours Truly",
+      "city": "Honolulu, Hawaii",
       "dateExperienced": null,
       "contributors": [
         "anav42"
@@ -4524,8 +4524,7 @@
       },
       "unresolvedQuestions": [
         "Taste original cocktail and compare with reconstruction.",
-        "Test proposed measurements and refine balance.",
-        "Confirm venue name and location."
+        "Test proposed measurements and refine balance."
       ],
       "notes": "Untried experimental reconstruction v0.1. Menu ingredients are documented; quantities, ingredient forms, techniques and glassware are proposed starting points, not verified bar specifications.",
       "version": "0.1",
@@ -4541,14 +4540,15 @@
         "Nutmeg"
       ],
       "tastingStatus": "untried",
-      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9"
+      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9",
+      "sourceMenuUrl": "https://www.yourstrulyhawaii.com/menu/cocktails/"
     },
     {
       "id": "queen-lili-u-venue-to-confirm-illustrated-tiki-menu",
       "name": "Queen Liliʻu",
-      "status": "menu-only",
-      "bar": "Venue to confirm — illustrated tiki menu",
-      "city": "",
+      "status": "untried",
+      "bar": "Yours Truly",
+      "city": "Honolulu, Hawaii",
       "dateExperienced": null,
       "contributors": [
         "anav42"
@@ -4596,7 +4596,7 @@
           }
         ],
         "steps": [
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -4604,8 +4604,7 @@
       },
       "unresolvedQuestions": [
         "Taste original cocktail and compare with reconstruction.",
-        "Test proposed measurements and refine balance.",
-        "Confirm venue name and location."
+        "Test proposed measurements and refine balance."
       ],
       "notes": "Untried experimental reconstruction v0.1. Menu ingredients are documented; quantities, ingredient forms, techniques and glassware are proposed starting points, not verified bar specifications.",
       "version": "0.1",
@@ -4619,14 +4618,15 @@
         "Macadamia orgeat"
       ],
       "tastingStatus": "untried",
-      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9"
+      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9",
+      "sourceMenuUrl": "https://www.yourstrulyhawaii.com/menu/cocktails/"
     },
     {
       "id": "mano-a-mano-venue-to-confirm-illustrated-tiki-menu",
       "name": "Mano a Mano",
-      "status": "menu-only",
-      "bar": "Venue to confirm — illustrated tiki menu",
-      "city": "",
+      "status": "untried",
+      "bar": "Yours Truly",
+      "city": "Honolulu, Hawaii",
       "dateExperienced": null,
       "contributors": [
         "anav42"
@@ -4675,7 +4675,7 @@
         ],
         "steps": [
           "Use mango puree and spiced pineapple cordial; shake and serve over crushed ice.",
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -4683,8 +4683,7 @@
       },
       "unresolvedQuestions": [
         "Taste original cocktail and compare with reconstruction.",
-        "Test proposed measurements and refine balance.",
-        "Confirm venue name and location."
+        "Test proposed measurements and refine balance."
       ],
       "notes": "Untried experimental reconstruction v0.1. Menu ingredients are documented; quantities, ingredient forms, techniques and glassware are proposed starting points, not verified bar specifications.",
       "version": "0.1",
@@ -4698,14 +4697,15 @@
         "Spiced pineapple cordial"
       ],
       "tastingStatus": "untried",
-      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9"
+      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9",
+      "sourceMenuUrl": "https://www.yourstrulyhawaii.com/menu/cocktails/"
     },
     {
       "id": "titah-bun-venue-to-confirm-illustrated-tiki-menu",
       "name": "Titah Bun",
-      "status": "menu-only",
-      "bar": "Venue to confirm — illustrated tiki menu",
-      "city": "",
+      "status": "untried",
+      "bar": "Yours Truly",
+      "city": "Honolulu, Hawaii",
       "dateExperienced": null,
       "contributors": [
         "anav42"
@@ -4754,7 +4754,7 @@
         ],
         "steps": [
           "Use peach and guava puree; trial li hing tequila by stirring a small pinch into a serving of tequila.",
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -4762,8 +4762,7 @@
       },
       "unresolvedQuestions": [
         "Taste original cocktail and compare with reconstruction.",
-        "Test proposed measurements and refine balance.",
-        "Confirm venue name and location."
+        "Test proposed measurements and refine balance."
       ],
       "notes": "Untried experimental reconstruction v0.1. Menu ingredients are documented; quantities, ingredient forms, techniques and glassware are proposed starting points, not verified bar specifications.",
       "version": "0.1",
@@ -4777,14 +4776,15 @@
         "Lime"
       ],
       "tastingStatus": "untried",
-      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9"
+      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9",
+      "sourceMenuUrl": "https://www.yourstrulyhawaii.com/menu/cocktails/"
     },
     {
       "id": "island-curio-venue-to-confirm-illustrated-tiki-menu",
       "name": "Island Curio",
-      "status": "menu-only",
-      "bar": "Venue to confirm — illustrated tiki menu",
-      "city": "",
+      "status": "untried",
+      "bar": "Yours Truly",
+      "city": "Honolulu, Hawaii",
       "dateExperienced": null,
       "contributors": [
         "anav42"
@@ -4832,7 +4832,7 @@
           }
         ],
         "steps": [
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -4840,8 +4840,7 @@
       },
       "unresolvedQuestions": [
         "Taste original cocktail and compare with reconstruction.",
-        "Test proposed measurements and refine balance.",
-        "Confirm venue name and location."
+        "Test proposed measurements and refine balance."
       ],
       "notes": "Untried experimental reconstruction v0.1. Menu ingredients are documented; quantities, ingredient forms, techniques and glassware are proposed starting points, not verified bar specifications.",
       "version": "0.1",
@@ -4855,14 +4854,15 @@
         "Citrus syrup"
       ],
       "tastingStatus": "untried",
-      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9"
+      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9",
+      "sourceMenuUrl": "https://www.yourstrulyhawaii.com/menu/cocktails/"
     },
     {
       "id": "bamboo-shootz-venue-to-confirm-illustrated-tiki-menu",
       "name": "Bamboo Shootz!",
-      "status": "menu-only",
-      "bar": "Venue to confirm — illustrated tiki menu",
-      "city": "",
+      "status": "untried",
+      "bar": "Yours Truly",
+      "city": "Honolulu, Hawaii",
       "dateExperienced": null,
       "contributors": [
         "anav42"
@@ -4906,7 +4906,7 @@
         ],
         "steps": [
           "Steep one star anise pod in 120 mL bourbon for 30 minutes, taste and strain.",
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -4914,8 +4914,7 @@
       },
       "unresolvedQuestions": [
         "Taste original cocktail and compare with reconstruction.",
-        "Test proposed measurements and refine balance.",
-        "Confirm venue name and location."
+        "Test proposed measurements and refine balance."
       ],
       "notes": "Untried experimental reconstruction v0.1. Menu ingredients are documented; quantities, ingredient forms, techniques and glassware are proposed starting points, not verified bar specifications.",
       "version": "0.1",
@@ -4928,14 +4927,15 @@
         "Grapefruit"
       ],
       "tastingStatus": "untried",
-      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9"
+      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9",
+      "sourceMenuUrl": "https://www.yourstrulyhawaii.com/menu/cocktails/"
     },
     {
       "id": "polly-s-potion-venue-to-confirm-illustrated-tiki-menu",
       "name": "Polly's Potion",
-      "status": "menu-only",
-      "bar": "Venue to confirm — illustrated tiki menu",
-      "city": "",
+      "status": "untried",
+      "bar": "Yours Truly",
+      "city": "Honolulu, Hawaii",
       "dateExperienced": null,
       "contributors": [
         "anav42"
@@ -4974,7 +4974,7 @@
           }
         ],
         "steps": [
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Shot glass",
@@ -4982,8 +4982,7 @@
       },
       "unresolvedQuestions": [
         "Taste original cocktail and compare with reconstruction.",
-        "Test proposed measurements and refine balance.",
-        "Confirm venue name and location."
+        "Test proposed measurements and refine balance."
       ],
       "notes": "Untried experimental reconstruction v0.1. Menu ingredients are documented; quantities, ingredient forms, techniques and glassware are proposed starting points, not verified bar specifications.",
       "version": "0.1",
@@ -4995,14 +4994,15 @@
         "Lime"
       ],
       "tastingStatus": "untried",
-      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9"
+      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9",
+      "sourceMenuUrl": "https://www.yourstrulyhawaii.com/menu/cocktails/"
     },
     {
       "id": "zombie-venue-to-confirm-illustrated-tiki-menu",
       "name": "Zombie",
-      "status": "menu-only",
-      "bar": "Venue to confirm — illustrated tiki menu",
-      "city": "",
+      "status": "untried",
+      "bar": "Yours Truly",
+      "city": "Honolulu, Hawaii",
       "dateExperienced": null,
       "contributors": [
         "anav42"
@@ -5060,7 +5060,7 @@
           }
         ],
         "steps": [
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -5068,8 +5068,7 @@
       },
       "unresolvedQuestions": [
         "Taste original cocktail and compare with reconstruction.",
-        "Test proposed measurements and refine balance.",
-        "Confirm venue name and location."
+        "Test proposed measurements and refine balance."
       ],
       "notes": "Untried experimental reconstruction v0.1. Menu ingredients are documented; quantities, ingredient forms, techniques and glassware are proposed starting points, not verified bar specifications.",
       "version": "0.1",
@@ -5085,14 +5084,15 @@
         "Angostura"
       ],
       "tastingStatus": "untried",
-      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9"
+      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9",
+      "sourceMenuUrl": "https://www.yourstrulyhawaii.com/menu/cocktails/"
     },
     {
       "id": "hurricane-venue-to-confirm-illustrated-tiki-menu",
       "name": "Hurricane",
-      "status": "menu-only",
-      "bar": "Venue to confirm — illustrated tiki menu",
-      "city": "",
+      "status": "untried",
+      "bar": "Yours Truly",
+      "city": "Honolulu, Hawaii",
       "dateExperienced": null,
       "contributors": [
         "anav42"
@@ -5135,7 +5135,7 @@
           }
         ],
         "steps": [
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -5143,8 +5143,7 @@
       },
       "unresolvedQuestions": [
         "Taste original cocktail and compare with reconstruction.",
-        "Test proposed measurements and refine balance.",
-        "Confirm venue name and location."
+        "Test proposed measurements and refine balance."
       ],
       "notes": "Untried experimental reconstruction v0.1. Menu ingredients are documented; quantities, ingredient forms, techniques and glassware are proposed starting points, not verified bar specifications.",
       "version": "0.1",
@@ -5157,14 +5156,15 @@
         "Grenadine"
       ],
       "tastingStatus": "untried",
-      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9"
+      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9",
+      "sourceMenuUrl": "https://www.yourstrulyhawaii.com/menu/cocktails/"
     },
     {
       "id": "mai-tai-venue-to-confirm-illustrated-tiki-menu",
       "name": "Mai Tai",
-      "status": "menu-only",
-      "bar": "Venue to confirm — illustrated tiki menu",
-      "city": "",
+      "status": "untried",
+      "bar": "Yours Truly",
+      "city": "Honolulu, Hawaii",
       "dateExperienced": null,
       "contributors": [
         "anav42"
@@ -5208,7 +5208,7 @@
         ],
         "steps": [
           "Shake all except dark rum; float dark rum on crushed ice.",
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -5216,8 +5216,7 @@
       },
       "unresolvedQuestions": [
         "Taste original cocktail and compare with reconstruction.",
-        "Test proposed measurements and refine balance.",
-        "Confirm venue name and location."
+        "Test proposed measurements and refine balance."
       ],
       "notes": "Untried experimental reconstruction v0.1. Menu ingredients are documented; quantities, ingredient forms, techniques and glassware are proposed starting points, not verified bar specifications.",
       "version": "0.1",
@@ -5230,14 +5229,15 @@
         "Koloa dark rum float"
       ],
       "tastingStatus": "untried",
-      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9"
+      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9",
+      "sourceMenuUrl": "https://www.yourstrulyhawaii.com/menu/cocktails/"
     },
     {
       "id": "saturn-venue-to-confirm-illustrated-tiki-menu",
       "name": "Saturn",
-      "status": "menu-only",
-      "bar": "Venue to confirm — illustrated tiki menu",
-      "city": "",
+      "status": "untried",
+      "bar": "Yours Truly",
+      "city": "Honolulu, Hawaii",
       "dateExperienced": null,
       "contributors": [
         "anav42"
@@ -5281,7 +5281,7 @@
         ],
         "steps": [
           "Add 0.5 oz lemon juice as an experimental addition for balance.",
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -5289,8 +5289,7 @@
       },
       "unresolvedQuestions": [
         "Taste original cocktail and compare with reconstruction.",
-        "Test proposed measurements and refine balance.",
-        "Confirm venue name and location."
+        "Test proposed measurements and refine balance."
       ],
       "notes": "Untried experimental reconstruction v0.1. Menu ingredients are documented; quantities, ingredient forms, techniques and glassware are proposed starting points, not verified bar specifications.",
       "version": "0.1",
@@ -5302,14 +5301,15 @@
         "Macadamia orgeat"
       ],
       "tastingStatus": "untried",
-      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9"
+      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9",
+      "sourceMenuUrl": "https://www.yourstrulyhawaii.com/menu/cocktails/"
     },
     {
       "id": "pain-killer-venue-to-confirm-illustrated-tiki-menu",
       "name": "Pain Killer",
-      "status": "menu-only",
-      "bar": "Venue to confirm — illustrated tiki menu",
-      "city": "",
+      "status": "untried",
+      "bar": "Yours Truly",
+      "city": "Honolulu, Hawaii",
       "dateExperienced": null,
       "contributors": [
         "anav42"
@@ -5348,7 +5348,7 @@
         ],
         "steps": [
           "Shake with crushed ice; garnish with grated nutmeg as an experimental addition.",
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -5356,8 +5356,7 @@
       },
       "unresolvedQuestions": [
         "Taste original cocktail and compare with reconstruction.",
-        "Test proposed measurements and refine balance.",
-        "Confirm venue name and location."
+        "Test proposed measurements and refine balance."
       ],
       "notes": "Untried experimental reconstruction v0.1. Menu ingredients are documented; quantities, ingredient forms, techniques and glassware are proposed starting points, not verified bar specifications.",
       "version": "0.1",
@@ -5369,14 +5368,15 @@
         "Cream of coconut"
       ],
       "tastingStatus": "untried",
-      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9"
+      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9",
+      "sourceMenuUrl": "https://www.yourstrulyhawaii.com/menu/cocktails/"
     },
     {
       "id": "navy-grog-venue-to-confirm-illustrated-tiki-menu",
       "name": "Navy Grog",
-      "status": "menu-only",
-      "bar": "Venue to confirm — illustrated tiki menu",
-      "city": "",
+      "status": "untried",
+      "bar": "Yours Truly",
+      "city": "Honolulu, Hawaii",
       "dateExperienced": null,
       "contributors": [
         "anav42"
@@ -5424,7 +5424,7 @@
           }
         ],
         "steps": [
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -5432,8 +5432,7 @@
       },
       "unresolvedQuestions": [
         "Taste original cocktail and compare with reconstruction.",
-        "Test proposed measurements and refine balance.",
-        "Confirm venue name and location."
+        "Test proposed measurements and refine balance."
       ],
       "notes": "Untried experimental reconstruction v0.1. Menu ingredients are documented; quantities, ingredient forms, techniques and glassware are proposed starting points, not verified bar specifications.",
       "version": "0.1",
@@ -5447,14 +5446,15 @@
         "Grapefruit"
       ],
       "tastingStatus": "untried",
-      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9"
+      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9",
+      "sourceMenuUrl": "https://www.yourstrulyhawaii.com/menu/cocktails/"
     },
     {
       "id": "she-s-blushin-venue-to-confirm-illustrated-tiki-menu",
       "name": "She's Blushin",
-      "status": "menu-only",
-      "bar": "Venue to confirm — illustrated tiki menu",
-      "city": "",
+      "status": "untried",
+      "bar": "Yours Truly",
+      "city": "Honolulu, Hawaii",
       "dateExperienced": null,
       "contributors": [
         "anav42"
@@ -5500,8 +5500,7 @@
       },
       "unresolvedQuestions": [
         "Taste original cocktail and compare with reconstruction.",
-        "Test proposed measurements and refine balance.",
-        "Confirm venue name and location."
+        "Test proposed measurements and refine balance."
       ],
       "notes": "Untried experimental reconstruction v0.1. Menu ingredients are documented; quantities, ingredient forms, techniques and glassware are proposed starting points, not verified bar specifications.",
       "version": "0.1",
@@ -5513,14 +5512,15 @@
         "Club soda"
       ],
       "tastingStatus": "untried",
-      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9"
+      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9",
+      "sourceMenuUrl": "https://www.yourstrulyhawaii.com/menu/cocktails/"
     },
     {
       "id": "manila-bae-venue-to-confirm-illustrated-tiki-menu",
       "name": "Manila Bae",
-      "status": "menu-only",
-      "bar": "Venue to confirm — illustrated tiki menu",
-      "city": "",
+      "status": "untried",
+      "bar": "Yours Truly",
+      "city": "Honolulu, Hawaii",
       "dateExperienced": null,
       "contributors": [
         "anav42"
@@ -5558,7 +5558,7 @@
           }
         ],
         "steps": [
-          "Shake measured ingredients with ice for 12–15 seconds and strain into serving glass.",
+          "Shake liquid ingredients with ice for 12–15 seconds, excluding carbonated mixers, floats and garnishes; strain into serving glass and finish with any reserved components.",
           "Taste and adjust sweetness or acidity in small increments; record changes for the next version."
         ],
         "glassware": "Chilled coupe or rocks glass",
@@ -5566,8 +5566,7 @@
       },
       "unresolvedQuestions": [
         "Taste original cocktail and compare with reconstruction.",
-        "Test proposed measurements and refine balance.",
-        "Confirm venue name and location."
+        "Test proposed measurements and refine balance."
       ],
       "notes": "Untried experimental reconstruction v0.1. Menu ingredients are documented; quantities, ingredient forms, techniques and glassware are proposed starting points, not verified bar specifications.",
       "version": "0.1",
@@ -5579,14 +5578,15 @@
         "Citrus syrup"
       ],
       "tastingStatus": "untried",
-      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9"
+      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9",
+      "sourceMenuUrl": "https://www.yourstrulyhawaii.com/menu/cocktails/"
     },
     {
       "id": "stamped-strawberry-venue-to-confirm-illustrated-tiki-menu",
       "name": "Stamped Strawberry",
-      "status": "menu-only",
-      "bar": "Venue to confirm — illustrated tiki menu",
-      "city": "",
+      "status": "untried",
+      "bar": "Yours Truly",
+      "city": "Honolulu, Hawaii",
       "dateExperienced": null,
       "contributors": [
         "anav42"
@@ -5633,8 +5633,7 @@
       },
       "unresolvedQuestions": [
         "Taste original cocktail and compare with reconstruction.",
-        "Test proposed measurements and refine balance.",
-        "Confirm venue name and location."
+        "Test proposed measurements and refine balance."
       ],
       "notes": "Untried experimental reconstruction v0.1. Menu ingredients are documented; quantities, ingredient forms, techniques and glassware are proposed starting points, not verified bar specifications.",
       "version": "0.1",
@@ -5646,7 +5645,8 @@
         "Club soda"
       ],
       "tastingStatus": "untried",
-      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9"
+      "sourceLocationUrl": "https://maps.app.goo.gl/NdCAFi4iDDpt6yhJ9",
+      "sourceMenuUrl": "https://www.yourstrulyhawaii.com/menu/cocktails/"
     }
   ]
 }
