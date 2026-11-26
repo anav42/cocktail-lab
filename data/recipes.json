@@ -342,6 +342,4265 @@
         "Test matcha concentration and sweetness against the original."
       ],
       "notes": "User's actual photo was supplied in chat, but not yet uploaded into the repository. All measured quantities are reconstruction estimates; menu identifies ingredients but not amounts."
+    },
+    {
+      "id": "club-tropicana-podmore",
+      "name": "Club Tropicana",
+      "status": "menu-only",
+      "bar": "Podmore",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Rum",
+      "tags": [
+        "rum",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Planteray Stiggins pineapple rum, Planteray 3 Stars rum, Kalani coconut, Tropical fruits.",
+        "Menu describes a Rubik's ice cube."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Planteray Stiggins pineapple rum",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Planteray 3 Stars rum",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Kalani coconut",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Tropical fruits",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "the-autumn-chung-chow-podmore",
+      "name": "The Autumn Chung Chow",
+      "status": "menu-only",
+      "bar": "Podmore",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Whiskey",
+      "tags": [
+        "whiskey",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Pimm's No. 1, Rye, Allspice, Pear, Apple, Ginger, Pumpkin, Ube, Cranberry.",
+        "Menu says the drink gets punchier as the ice melts."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Pimm's No. 1",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Rye",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Allspice",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Pear",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Apple",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Ginger",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Pumpkin",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Ube",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Cranberry",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "the-dartmoor-podmore",
+      "name": "The Dartmoor",
+      "status": "menu-only",
+      "bar": "Podmore",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Gin",
+      "tags": [
+        "gin",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Plymouth gin, St-Germain elderflower, Pine syrup, Aloe, Lime."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Plymouth gin",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "St-Germain elderflower",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Pine syrup",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Aloe",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lime",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "the-freddie-og-podmore",
+      "name": "The Freddie OG",
+      "status": "menu-only",
+      "bar": "Podmore",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Whiskey",
+      "tags": [
+        "whiskey",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Maker's Mark Senia + Podmore private barrel, Vanilla, Chestnut honey, Lemon."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Maker's Mark Senia + Podmore private barrel",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Vanilla",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Chestnut honey",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lemon",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "ship-based-podmore",
+      "name": "Ship Based",
+      "status": "menu-only",
+      "bar": "Podmore",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Aquavit",
+      "tags": [
+        "aquavit",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Linie aquavit, Gin Mare, Cranberry, Ginger syrup, Tonic."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Linie aquavit",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Gin Mare",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Cranberry",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Ginger syrup",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Tonic",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "apple-pie-tai-podmore",
+      "name": "Apple Pie Tai",
+      "status": "menu-only",
+      "bar": "Podmore",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Rum",
+      "tags": [
+        "rum",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: El Dorado 8 rum, Morin Calvados, Spiced apple syrup, Orgeat, Lemon."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "El Dorado 8 rum",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Morin Calvados",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Spiced apple syrup",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Orgeat",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lemon",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "apres-beach-podmore",
+      "name": "Apres-Beach",
+      "status": "menu-only",
+      "bar": "Podmore",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Amaro",
+      "tags": [
+        "amaro",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Braulio amaro, Drambuie, Spice syrup, Lemon."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Braulio amaro",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Drambuie",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Spice syrup",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lemon",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "sweety-pie-podmore",
+      "name": "Sweety Pie",
+      "status": "menu-only",
+      "bar": "Podmore",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Brandy",
+      "tags": [
+        "brandy",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Martell cognac, Sweet potato syrup, Walnut bitters, Cabernet Sauvignon, Egg white."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Martell cognac",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Sweet potato syrup",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Walnut bitters",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Cabernet Sauvignon",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Egg white",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "fully-loaded-podmore",
+      "name": "Fully Loaded",
+      "status": "menu-only",
+      "bar": "Podmore",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Vodka",
+      "tags": [
+        "vodka",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Sour cream-infused Chopin vodka, Salers, Dolin dry vermouth, Chive, Bacon dust."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Sour cream-infused Chopin vodka",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Salers",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Dolin dry vermouth",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Chive",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Bacon dust",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "fall-into-summer-podmore",
+      "name": "Fall into Summer",
+      "status": "menu-only",
+      "bar": "Podmore",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Brandy",
+      "tags": [
+        "brandy",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Magloire Calvados, Luxardo cherry liqueur, Amontillado sherry, Tomato water."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Magloire Calvados",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Luxardo cherry liqueur",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Amontillado sherry",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Tomato water",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "pumpkin-to-sing-about-podmore",
+      "name": "Pumpkin To Sing About",
+      "status": "menu-only",
+      "bar": "Podmore",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Whiskey",
+      "tags": [
+        "whiskey",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Rittenhouse rye, Allspice dram, Foro amaro, Cold brew concentrate, Pumpkin spice."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Rittenhouse rye",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Allspice dram",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Foro amaro",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Cold brew concentrate",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Pumpkin spice",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "gettin-figgy-wit-it-podmore",
+      "name": "Gettin’ Figgy Wit It",
+      "status": "menu-only",
+      "bar": "Podmore",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Whiskey",
+      "tags": [
+        "whiskey",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Old Grand-Dad 114 bourbon, Fig liqueur, Meletti amaro, Licor 43, Balsamic vinegar, Cacao bitters."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Old Grand-Dad 114 bourbon",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Fig liqueur",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Meletti amaro",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Licor 43",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Balsamic vinegar",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Cacao bitters",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "romantic-lead-podmore",
+      "name": "Romantic Lead",
+      "status": "menu-only",
+      "bar": "Podmore",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Vodka",
+      "tags": [
+        "vodka",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Cocoa butter-washed Pau vodka, Thyme liqueur, Vanilla liqueur, Passionfruit, Lime."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Cocoa butter-washed Pau vodka",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Thyme liqueur",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Vanilla liqueur",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Passionfruit",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lime",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "so-fresa-so-clean-podmore",
+      "name": "So Fresa, So Clean",
+      "status": "menu-only",
+      "bar": "Podmore",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Mezcal",
+      "tags": [
+        "mezcal",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Banhez mezcal, Strawberry syrup, Rhubarb liqueur, Lo-Fi amaro, Ginger beer."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Banhez mezcal",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Strawberry syrup",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Rhubarb liqueur",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lo-Fi amaro",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Ginger beer",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "notorious-p-i-g-podmore",
+      "name": "Notorious P.I.G.",
+      "status": "menu-only",
+      "bar": "Podmore",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Tequila",
+      "tags": [
+        "tequila",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Bacon-washed Real del Valle tequila, Alma Tepec chile, Pineapple, Cumin tincture."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Bacon-washed Real del Valle tequila",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Alma Tepec chile",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Pineapple",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Cumin tincture",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "fat-sassy-podmore",
+      "name": "Fat & Sassy",
+      "status": "menu-only",
+      "bar": "Podmore",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Whiskey",
+      "tags": [
+        "whiskey",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Knob Creek rye, Sarsaparilla syrup, Ramazzotti, Licor 43, Lemon."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Knob Creek rye",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Sarsaparilla syrup",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Ramazzotti",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Licor 43",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lemon",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "ogres-have-layers-podmore",
+      "name": "Ogres Have Layers",
+      "status": "menu-only",
+      "bar": "Podmore",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Vodka",
+      "tags": [
+        "vodka",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Milk-washed Tito's, Borghetti espresso liqueur, Walnut bitters, Matcha cream float."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Milk-washed Tito's",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Borghetti espresso liqueur",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Walnut bitters",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Matcha cream float",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "ever-green-podmore",
+      "name": "Ever Green",
+      "status": "menu-only",
+      "bar": "Podmore",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Gin",
+      "tags": [
+        "gin",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Gray Whale gin, Reyka vodka, Cocchi Americano, Cucumber, Shiso, Celery bitters."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Gray Whale gin",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Reyka vodka",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Cocchi Americano",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Cucumber",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Shiso",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Celery bitters",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "southern-swell-podmore",
+      "name": "Southern Swell",
+      "status": "menu-only",
+      "bar": "Podmore",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Whiskey",
+      "tags": [
+        "whiskey",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Coconut oil-washed Monkey Shoulder Scotch, Hot honey, Pandan liqueur, Bitters."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Coconut oil-washed Monkey Shoulder Scotch",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Hot honey",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Pandan liqueur",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Bitters",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "latchkey-lunch-podmore",
+      "name": "Latchkey Lunch",
+      "status": "menu-only",
+      "bar": "Podmore",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Rum",
+      "tags": [
+        "rum",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Peanut butter-infused El Dorado 8 rum, Campari, Carpano Antica, Giffard strawberry, Pedro Ximenez sherry."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Peanut butter-infused El Dorado 8 rum",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Campari",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Carpano Antica",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Giffard strawberry",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Pedro Ximenez sherry",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "golden-tonic-podmore",
+      "name": "Golden Tonic",
+      "status": "menu-only",
+      "bar": "Podmore",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Zero Proof",
+      "tags": [
+        "zero proof",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Turmeric, Ginger, Spices, Tamarind, Lemon, Tonic water."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Turmeric",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Ginger",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Spices",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Tamarind",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lemon",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Tonic water",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "luz-azul-podmore",
+      "name": "Luz Azul",
+      "status": "menu-only",
+      "bar": "Podmore",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Zero Proof",
+      "tags": [
+        "zero proof",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Seedlip Agave, Amaro Lucano non-alcoholic, Blueberry, Soda."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Seedlip Agave",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Amaro Lucano non-alcoholic",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Blueberry",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Soda",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "green-screen-podmore",
+      "name": "Green Screen",
+      "status": "menu-only",
+      "bar": "Podmore",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Zero Proof",
+      "tags": [
+        "zero proof",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Celery, Mint, Cucumber, Seltzer."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Celery",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Mint",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Cucumber",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Seltzer",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "it-s-4-59-somewhere-podmore",
+      "name": "It's 4:59 Somewhere",
+      "status": "menu-only",
+      "bar": "Podmore",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Zero Proof",
+      "tags": [
+        "zero proof",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Pineapple, Orgeat, Cinnamon, Lime."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Pineapple",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Orgeat",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Cinnamon",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lime",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "virgin-mary-podmore",
+      "name": "Virgin Mary",
+      "status": "menu-only",
+      "bar": "Podmore",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Zero Proof",
+      "tags": [
+        "zero proof",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Podmore bloody mary mix, Seedlip Garden."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Podmore bloody mary mix",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Seedlip Garden",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "b-l-a-bar-leather-apron",
+      "name": "B.L.A.",
+      "status": "menu-only",
+      "bar": "Bar Leather Apron",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Whiskey",
+      "tags": [
+        "whiskey",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: B.L.A. x Knob Creek single barrel bourbon, Wasanbon sugar, Angostura bitters, Orange."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "B.L.A. x Knob Creek single barrel bourbon",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Wasanbon sugar",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Angostura bitters",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Orange",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "roku-cha-bar-leather-apron",
+      "name": "Roku-Cha",
+      "status": "menu-only",
+      "bar": "Bar Leather Apron",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Gin",
+      "tags": [
+        "gin",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Wakabotan sake, Roku gin, Coconut water, Wasanbon sugar, Matcha, Orange bitters."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Wakabotan sake",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Roku gin",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Coconut water",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Wasanbon sugar",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Matcha",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Orange bitters",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "japan-bar-leather-apron",
+      "name": "Japan",
+      "status": "menu-only",
+      "bar": "Bar Leather Apron",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Whiskey",
+      "tags": [
+        "whiskey",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Umami-infused Hakushu 12 year, Maple, Angostura bitters."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Umami-infused Hakushu 12 year",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Maple",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Angostura bitters",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "imperial-bar-leather-apron",
+      "name": "Imperial",
+      "status": "menu-only",
+      "bar": "Bar Leather Apron",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Whiskey",
+      "tags": [
+        "whiskey",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Suntory Toki Black, Hakushu 12 year, Wasanbon sugar, Angostura bitters, Lilikoi and shiso essence."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Suntory Toki Black",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Hakushu 12 year",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Wasanbon sugar",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Angostura bitters",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lilikoi and shiso essence",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "in-the-soul-bar-leather-apron",
+      "name": "In the Soul",
+      "status": "menu-only",
+      "bar": "Bar Leather Apron",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Whiskey",
+      "tags": [
+        "whiskey",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Glenmorangie 12 year, Laphroaig 10 year, Lemon, Honey, Ginger, Black pepper, American white oak."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Glenmorangie 12 year",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Laphroaig 10 year",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lemon",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Honey",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Ginger",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Black pepper",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "American white oak",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "leather-soul-bar-leather-apron",
+      "name": "Leather Soul",
+      "status": "menu-only",
+      "bar": "Bar Leather Apron",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Whiskey",
+      "tags": [
+        "whiskey",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Leather Soul x Knob Creek single barrel bourbon, Laphroaig 10 year, Cynar, Vermouth, Tobacco aroma."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Leather Soul x Knob Creek single barrel bourbon",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Laphroaig 10 year",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Cynar",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Vermouth",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Tobacco aroma",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "royal-kunia-bar-leather-apron",
+      "name": "Royal Kunia",
+      "status": "menu-only",
+      "bar": "Bar Leather Apron",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Whiskey",
+      "tags": [
+        "whiskey",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: B.L.A. x Maker's Mark Private Select bourbon, Cynar, Ko Hana Kokoleka and coffee, Vermouth, Smoked salt."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "B.L.A. x Maker's Mark Private Select bourbon",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Cynar",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Ko Hana Kokoleka and coffee",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Vermouth",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Smoked salt",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "el-umami-bar-leather-apron",
+      "name": "El Umami",
+      "status": "menu-only",
+      "bar": "Bar Leather Apron",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Tequila",
+      "tags": [
+        "tequila",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: B.L.A. x El Tesoro single barrel reposado tequila, Mezcal, Bergamot, Strawberry, Tomato water."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "B.L.A. x El Tesoro single barrel reposado tequila",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Mezcal",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Bergamot",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Strawberry",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Tomato water",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "rocking-chair-bar-leather-apron",
+      "name": "Rocking Chair",
+      "status": "menu-only",
+      "bar": "Bar Leather Apron",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Mezcal",
+      "tags": [
+        "mezcal",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Montelobos mezcal, Red shiso, Grapefruit, Rooibos tea, Amaro Angeleno, Egg white, Yukari."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Montelobos mezcal",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Red shiso",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Grapefruit",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Rooibos tea",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Amaro Angeleno",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Egg white",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Yukari",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "la-altena-bar-leather-apron",
+      "name": "La Altena",
+      "status": "menu-only",
+      "bar": "Bar Leather Apron",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Tequila",
+      "tags": [
+        "tequila",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: B.L.A. x El Tesoro single barrel reposado tequila, Mango, Lime, Ancho chile, Shishito pepper."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "B.L.A. x El Tesoro single barrel reposado tequila",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Mango",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lime",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Ancho chile",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Shishito pepper",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "yuzu-sour-bar-leather-apron",
+      "name": "Yuzu Sour",
+      "status": "menu-only",
+      "bar": "Bar Leather Apron",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Rum",
+      "tags": [
+        "rum",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: B.L.A. x Ko Hana single barrel Hawaiian agricole rum, Yuzu, Kabosu, Mugi-cha, Chocolate bitters, Egg white."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "B.L.A. x Ko Hana single barrel Hawaiian agricole rum",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Yuzu",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Kabosu",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Mugi-cha",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Chocolate bitters",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Egg white",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "sansho-tonic-bar-leather-apron",
+      "name": "Sansho Tonic",
+      "status": "menu-only",
+      "bar": "Bar Leather Apron",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Vodka",
+      "tags": [
+        "vodka",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Haku vodka, Iichiko Shinwa shochu, Bergamot, Sansho pepper, Lilikoi, Tonic."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Haku vodka",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Iichiko Shinwa shochu",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Bergamot",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Sansho pepper",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lilikoi",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Tonic",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "l-m-c-bar-leather-apron",
+      "name": "L.M.C.",
+      "status": "menu-only",
+      "bar": "Bar Leather Apron",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Sake",
+      "tags": [
+        "sake",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Sake, Pomegranate, Rose, Stonefruit, Cinnamon, Champagne."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Sake",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Pomegranate",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Rose",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Stonefruit",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Cinnamon",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Champagne",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "boomerang-bar-leather-apron",
+      "name": "Boomerang",
+      "status": "menu-only",
+      "bar": "Bar Leather Apron",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Gin",
+      "tags": [
+        "gin",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Gin, Iichiko special barrel aged shochu, Yuzu kosho vermouth, Elderflower, Kabosu."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Gin",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Iichiko special barrel aged shochu",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Yuzu kosho vermouth",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Elderflower",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Kabosu",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "li-hing-sour-bar-leather-apron",
+      "name": "Li Hing Sour",
+      "status": "menu-only",
+      "bar": "Bar Leather Apron",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Whiskey",
+      "tags": [
+        "whiskey",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Yamazaki 12 year, Amaretto, Lemon, Li hing, Stonefruit."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Yamazaki 12 year",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Amaretto",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lemon",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Li hing",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Stonefruit",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "kope-ika-bar-leather-apron",
+      "name": "Kope Ika",
+      "status": "menu-only",
+      "bar": "Bar Leather Apron",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Mezcal",
+      "tags": [
+        "mezcal",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Sesame mezcal, Ko Hana Kokoleka and coffee, Cynar, Salted pandan, Shishito pepper, Egg."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Sesame mezcal",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Ko Hana Kokoleka and coffee",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Cynar",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Salted pandan",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Shishito pepper",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Egg",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "choco-negroni-bar-leather-apron",
+      "name": "Choco Negroni",
+      "status": "menu-only",
+      "bar": "Bar Leather Apron",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Gin",
+      "tags": [
+        "gin",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Gin, Coconut Campari, Cacao, Gochujang vermouth."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Gin",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Coconut Campari",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Cacao",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Gochujang vermouth",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "the-signature-gintonic-the-dotted-line",
+      "name": "The Signature Gintonic",
+      "status": "menu-only",
+      "bar": "The Dotted Line",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Gin",
+      "tags": [
+        "gin",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Hendrick's gin, Fever Tree Mediterranean tonic."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Hendrick's gin",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Fever Tree Mediterranean tonic",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "smoked-manhattan-the-dotted-line",
+      "name": "Smoked Manhattan",
+      "status": "menu-only",
+      "bar": "The Dotted Line",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Whiskey",
+      "tags": [
+        "whiskey",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Bulleit bourbon, Carpano Antica, Angostura bitters."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Bulleit bourbon",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Carpano Antica",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Angostura bitters",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "vodka-verdant-martini-the-dotted-line",
+      "name": "Vodka Verdant Martini",
+      "status": "menu-only",
+      "bar": "The Dotted Line",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Vodka",
+      "tags": [
+        "vodka",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Ketel One, Italicus, Dry vermouth, Makrut, Orange bitters."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Ketel One",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Italicus",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Dry vermouth",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Makrut",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Orange bitters",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "boulevardier-with-a-berry-the-dotted-line",
+      "name": "Boulevardier with a Berry",
+      "status": "menu-only",
+      "bar": "The Dotted Line",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Whiskey",
+      "tags": [
+        "whiskey",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Bulleit rye, Antica, Campari, Muddled strawberry."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Bulleit rye",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Antica",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Campari",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Muddled strawberry",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "charred-daiquiri-the-dotted-line",
+      "name": "Charred Daiquiri",
+      "status": "menu-only",
+      "bar": "The Dotted Line",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Rum",
+      "tags": [
+        "rum",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Brugal 1888, Charred pineapple, Lime, Lemongrass, Club soda."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Brugal 1888",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Charred pineapple",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lime",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lemongrass",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Club soda",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "division-bell-basil-the-dotted-line",
+      "name": "Division Bell & Basil",
+      "status": "menu-only",
+      "bar": "The Dotted Line",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Mezcal",
+      "tags": [
+        "mezcal",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Del Maguey mezcal, Aperol, Luxardo, Lime, Thai basil."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Del Maguey mezcal",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Aperol",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Luxardo",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lime",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Thai basil",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "rosato-spritz-the-dotted-line",
+      "name": "Rosato Spritz",
+      "status": "menu-only",
+      "bar": "The Dotted Line",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Aperitif",
+      "tags": [
+        "aperitif",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Ramazzotti Aperitivo Rosato, Raspberries, Campo Viejo (type cropped), Fever Tree Elderflower."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Ramazzotti Aperitivo Rosato",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Raspberries",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Campo Viejo (type cropped)",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Fever Tree Elderflower",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "penicillin-the-dotted-line",
+      "name": "Penicillin",
+      "status": "menu-only",
+      "bar": "The Dotted Line",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Whiskey",
+      "tags": [
+        "whiskey",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Monkey Shoulder, Lemon, Honey, Ginger, Sombra (remaining text cropped)."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Monkey Shoulder",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lemon",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Honey",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Ginger",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Sombra (remaining text cropped)",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "acgt-the-dotted-line",
+      "name": "ACGT",
+      "status": "menu-only",
+      "bar": "The Dotted Line",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Gin",
+      "tags": [
+        "gin",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Bombay Sapphire Premier Murcian Lemon, AC tonic concentrate, Fever Tree club soda."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Bombay Sapphire Premier Murcian Lemon",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "AC tonic concentrate",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Fever Tree club soda",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "yuzu-drop-kaimuki-shokudo",
+      "name": "Yuzu Drop",
+      "status": "menu-only",
+      "bar": "Kaimuki Shokudo",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Vodka",
+      "tags": [
+        "vodka",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Aspen vodka, Simple syrup, Lemon juice, Yuzu juice."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Aspen vodka",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Simple syrup",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lemon juice",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Yuzu juice",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "lychee-lemon-mojito-kaimuki-shokudo",
+      "name": "Lychee Lemon Mojito",
+      "status": "menu-only",
+      "bar": "Kaimuki Shokudo",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Rum",
+      "tags": [
+        "rum",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Bacardi rum, Lychee puree, Lemon juice, Simple syrup, Mint."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Bacardi rum",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lychee puree",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lemon juice",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Simple syrup",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Mint",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "yukari-lychee-tini-kaimuki-shokudo",
+      "name": "Yukari Lychee-Tini",
+      "status": "menu-only",
+      "bar": "Kaimuki Shokudo",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Vodka",
+      "tags": [
+        "vodka",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Aspen vodka, Lychee puree, Salted simple syrup, Lime juice, Yukari rim."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Aspen vodka",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lychee puree",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Salted simple syrup",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lime juice",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Yukari rim",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "lilikoi-cosmo-kaimuki-shokudo",
+      "name": "Lilikoi Cosmo",
+      "status": "menu-only",
+      "bar": "Kaimuki Shokudo",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Vodka",
+      "tags": [
+        "vodka",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Aspen vodka, Triple sec, Lilikoi syrup, Lime juice, Cranberry juice."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Aspen vodka",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Triple sec",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lilikoi syrup",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lime juice",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Cranberry juice",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "shiso-crazy-kaimuki-shokudo",
+      "name": "Shiso-Crazy",
+      "status": "menu-only",
+      "bar": "Kaimuki Shokudo",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Shochu",
+      "tags": [
+        "shochu",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Iichiko Mugi shochu, Shiso, Cucumber, Yuzu, Lemon juice, Ginger beer."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Iichiko Mugi shochu",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Shiso",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Cucumber",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Yuzu",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lemon juice",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Ginger beer",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "daily-whisk-matcha-sour-kaimuki-shokudo",
+      "name": "Daily Whisk Matcha Sour",
+      "status": "menu-only",
+      "bar": "Kaimuki Shokudo",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Vodka",
+      "tags": [
+        "vodka",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Aspen vodka, Honey syrup, St-Germain, Lemon juice, Daily Whisk matcha powder."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Aspen vodka",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Honey syrup",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "St-Germain",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lemon juice",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Daily Whisk matcha powder",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "lemongrass-shiso-gimlet-kaimuki-shokudo",
+      "name": "Lemongrass Shiso Gimlet",
+      "status": "menu-only",
+      "bar": "Kaimuki Shokudo",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Gin",
+      "tags": [
+        "gin",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Yuzu-infused gin, Lemongrass syrup, Shiso, Lime juice."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Yuzu-infused gin",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lemongrass syrup",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Shiso",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lime juice",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "namihana-mule-kaimuki-shokudo",
+      "name": "Namihana Mule",
+      "status": "menu-only",
+      "bar": "Kaimuki Shokudo",
+      "city": "Honolulu, Hawaii",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Shochu",
+      "tags": [
+        "shochu",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Namihana shochu, Ginger, Lemon wedge, Soda."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Namihana shochu",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Ginger",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lemon wedge",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Soda",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "p-sherman-venue-to-confirm-illustrated-tiki-menu",
+      "name": "P. Sherman",
+      "status": "menu-only",
+      "bar": "Venue to confirm — illustrated tiki menu",
+      "city": "",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Rum",
+      "tags": [
+        "rum",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Espresso, Koloa cacao rum, Koloa coconut rum, Koloa coffee rum, Chai, Maui Brewing coconut porter, Condensed milk, Nutmeg."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Espresso",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Koloa cacao rum",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Koloa coconut rum",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Koloa coffee rum",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Chai",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Maui Brewing coconut porter",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Condensed milk",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Nutmeg",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation.",
+        "Confirm venue name and location."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "queen-lili-u-venue-to-confirm-illustrated-tiki-menu",
+      "name": "Queen Liliʻu",
+      "status": "menu-only",
+      "bar": "Venue to confirm — illustrated tiki menu",
+      "city": "",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Gin",
+      "tags": [
+        "gin",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Botanist gin, Avua Prata cachaça, St-Germain, Lemon, Passionfruit, Macadamia orgeat."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Botanist gin",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Avua Prata cachaça",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "St-Germain",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lemon",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Passionfruit",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Macadamia orgeat",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation.",
+        "Confirm venue name and location."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "mano-a-mano-venue-to-confirm-illustrated-tiki-menu",
+      "name": "Mano a Mano",
+      "status": "menu-only",
+      "bar": "Venue to confirm — illustrated tiki menu",
+      "city": "",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Rum",
+      "tags": [
+        "rum",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Smith & Cross rum, Kohana Kea rum, Branca Menta, Mango, Lime, Spiced pineapple cordial."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Smith & Cross rum",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Kohana Kea rum",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Branca Menta",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Mango",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lime",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Spiced pineapple cordial",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation.",
+        "Confirm venue name and location."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "titah-bun-venue-to-confirm-illustrated-tiki-menu",
+      "name": "Titah Bun",
+      "status": "menu-only",
+      "bar": "Venue to confirm — illustrated tiki menu",
+      "city": "",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Rum",
+      "tags": [
+        "rum",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Planteray Stiggins Fancy pineapple rum, Kapena li hing-infused tequila, Hapa hibiscus vodka, Peach, Guava, Lime."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Planteray Stiggins Fancy pineapple rum",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Kapena li hing-infused tequila",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Hapa hibiscus vodka",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Peach",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Guava",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lime",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation.",
+        "Confirm venue name and location."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "island-curio-venue-to-confirm-illustrated-tiki-menu",
+      "name": "Island Curio",
+      "status": "menu-only",
+      "bar": "Venue to confirm — illustrated tiki menu",
+      "city": "",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Tequila",
+      "tags": [
+        "tequila",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Don Fulano reposado, Siete Misterios mezcal, Giffard Banane du Brésil, Mango, Pineapple, Citrus syrup."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Don Fulano reposado",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Siete Misterios mezcal",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Giffard Banane du Brésil",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Mango",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Pineapple",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Citrus syrup",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation.",
+        "Confirm venue name and location."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "bamboo-shootz-venue-to-confirm-illustrated-tiki-menu",
+      "name": "Bamboo Shootz!",
+      "status": "menu-only",
+      "bar": "Venue to confirm — illustrated tiki menu",
+      "city": "",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Whiskey",
+      "tags": [
+        "whiskey",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Star anise-infused Wild Turkey, Aperol, Agave, Lime, Grapefruit."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Star anise-infused Wild Turkey",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Aperol",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Agave",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lime",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Grapefruit",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation.",
+        "Confirm venue name and location."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "polly-s-potion-venue-to-confirm-illustrated-tiki-menu",
+      "name": "Polly's Potion",
+      "status": "menu-only",
+      "bar": "Venue to confirm — illustrated tiki menu",
+      "city": "",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Vodka",
+      "tags": [
+        "vodka",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Tito's vodka, Citrus syrup, Passionfruit, Lime.",
+        "Menu identifies this as a shot."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Tito's vodka",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Citrus syrup",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Passionfruit",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lime",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation.",
+        "Confirm venue name and location."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "zombie-venue-to-confirm-illustrated-tiki-menu",
+      "name": "Zombie",
+      "status": "menu-only",
+      "bar": "Venue to confirm — illustrated tiki menu",
+      "city": "",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Rum",
+      "tags": [
+        "rum",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Planteray 3 Stars rum, El Dorado 5 year Demerara, Wray & Nephew, Velvet falernum, Lime, Pineapple, Grenadine, Angostura."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Planteray 3 Stars rum",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "El Dorado 5 year Demerara",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Wray & Nephew",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Velvet falernum",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lime",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Pineapple",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Grenadine",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Angostura",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation.",
+        "Confirm venue name and location."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "hurricane-venue-to-confirm-illustrated-tiki-menu",
+      "name": "Hurricane",
+      "status": "menu-only",
+      "bar": "Venue to confirm — illustrated tiki menu",
+      "city": "",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Rum",
+      "tags": [
+        "rum",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Koloa white rum, Koloa dark rum, Orange, Passionfruit, Grenadine."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Koloa white rum",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Koloa dark rum",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Orange",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Passionfruit",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Grenadine",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation.",
+        "Confirm venue name and location."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "mai-tai-venue-to-confirm-illustrated-tiki-menu",
+      "name": "Mai Tai",
+      "status": "menu-only",
+      "bar": "Venue to confirm — illustrated tiki menu",
+      "city": "",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Rum",
+      "tags": [
+        "rum",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Koloa white rum, Ferrand dry curaçao, Lime, Macadamia orgeat, Koloa dark rum float."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Koloa white rum",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Ferrand dry curaçao",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lime",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Macadamia orgeat",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Koloa dark rum float",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation.",
+        "Confirm venue name and location."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "saturn-venue-to-confirm-illustrated-tiki-menu",
+      "name": "Saturn",
+      "status": "menu-only",
+      "bar": "Venue to confirm — illustrated tiki menu",
+      "city": "",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Gin",
+      "tags": [
+        "gin",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Fid St. gin, Velvet falernum, Passionfruit, Macadamia orgeat."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Fid St. gin",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Velvet falernum",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Passionfruit",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Macadamia orgeat",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation.",
+        "Confirm venue name and location."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "pain-killer-venue-to-confirm-illustrated-tiki-menu",
+      "name": "Pain Killer",
+      "status": "menu-only",
+      "bar": "Venue to confirm — illustrated tiki menu",
+      "city": "",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Rum",
+      "tags": [
+        "rum",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Koloa dark rum, Pineapple, Orange, Cream of coconut."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Koloa dark rum",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Pineapple",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Orange",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Cream of coconut",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation.",
+        "Confirm venue name and location."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "navy-grog-venue-to-confirm-illustrated-tiki-menu",
+      "name": "Navy Grog",
+      "status": "menu-only",
+      "bar": "Venue to confirm — illustrated tiki menu",
+      "city": "",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Rum",
+      "tags": [
+        "rum",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Planteray, Hart & Son 1804 rum, Meyers dark rum, Honey, Lime, Grapefruit."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Planteray",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Hart & Son 1804 rum",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Meyers dark rum",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Honey",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lime",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Grapefruit",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation.",
+        "Confirm venue name and location."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "she-s-blushin-venue-to-confirm-illustrated-tiki-menu",
+      "name": "She's Blushin",
+      "status": "menu-only",
+      "bar": "Venue to confirm — illustrated tiki menu",
+      "city": "",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Zero Proof",
+      "tags": [
+        "zero proof",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Spiced rich cranberry, Lime, Mint leaves, Club soda."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Spiced rich cranberry",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lime",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Mint leaves",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Club soda",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation.",
+        "Confirm venue name and location."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "manila-bae-venue-to-confirm-illustrated-tiki-menu",
+      "name": "Manila Bae",
+      "status": "menu-only",
+      "bar": "Venue to confirm — illustrated tiki menu",
+      "city": "",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Zero Proof",
+      "tags": [
+        "zero proof",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Pineapple, Tamarind syrup, Lime, Citrus syrup."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Pineapple",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Tamarind syrup",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lime",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Citrus syrup",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation.",
+        "Confirm venue name and location."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
+    },
+    {
+      "id": "stamped-strawberry-venue-to-confirm-illustrated-tiki-menu",
+      "name": "Stamped Strawberry",
+      "status": "menu-only",
+      "bar": "Venue to confirm — illustrated tiki menu",
+      "city": "",
+      "dateExperienced": null,
+      "contributors": [
+        "anav42"
+      ],
+      "baseSpirit": "Zero Proof",
+      "tags": [
+        "zero proof",
+        "menu-only",
+        "awaiting tasting feedback"
+      ],
+      "observations": [
+        "Menu lists: Muddled strawberry, Lime, Basil, Club soda."
+      ],
+      "recipe": {
+        "ingredients": [
+          {
+            "name": "Muddled strawberry",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Lime",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Basil",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          },
+          {
+            "name": "Club soda",
+            "quantity": "Not specified",
+            "certainty": "menu-confirmed"
+          }
+        ],
+        "steps": []
+      },
+      "unresolvedQuestions": [
+        "Confirm whether you have tried this cocktail; collect tasting and presentation feedback.",
+        "Develop measured reconstruction; menu does not specify quantities or preparation.",
+        "Confirm venue name and location."
+      ],
+      "notes": "Menu-only entry; tasting feedback not yet recorded. No measured recipe or original cocktail photograph yet.",
+      "version": "0.1",
+      "images": []
     }
   ]
 }
